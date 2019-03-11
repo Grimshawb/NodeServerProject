@@ -1,0 +1,19 @@
+{
+  "name": "nodetutorial",
+  "version": "1.0.0",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor  incididunt ut labore et dolore magna aliqua. Nunc lobortis mattis aliquam faucibus.  Vitae purus faucibus ornare suspendisse sed. Platea dictumst quisque sagittis purus sit  amet volutpat consequat mauris. Quis varius quam quisque id diam vel quam elementum. Dapibus  ultrices in iaculis nunc sed. Euismod nisi porta lorem mollis. Nam aliquam sem et tortor consequat id.  Quam quisque id diam vel quam elementum pulvinar etiam. Sem integer vitae justo eget magna.  Mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Id faucibus nisl tincidunt eget nullam non nisi.  Eu non diam phasellus vestibulum.",
+  "main": "main.js",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brad",
+  "license": "ISC",
+  "keywords": [
+    "awesomeness"
+  ]
+}
